@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category_name_1",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "Skibidi Toilet Battle_1",
+      "preview": "https://avatars.mds.yandex.net/i?id=b2a91b4e708de10401331996653e278c341d6318-10311215-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_1",
+          "path": "https://avatars.mds.yandex.net/i?id=92cf78d82a57d9cff1d453d4853798de835f9550-10069096-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_1",
+          "path": "https://avatars.mds.yandex.net/i?id=dd6bb8d946ab105a1bd412c25973fcc2111fd236-10137431-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_1",
+          "path": "https://avatars.mds.yandex.net/i?id=759deb1e6999745628e35ef01a0b30c058197984-10555250-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_1",
+          "path": "https://avatars.mds.yandex.net/i?id=d4e4c9263623dc337c5d6e2021736b75c66542db-11741829-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_1",
+          "path": "https://avatars.mds.yandex.net/i?id=3b0f8d43f05b1f80587e7fdc395c49a3d4514e0d-10147998-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_1",
+          "path": "https://avatars.mds.yandex.net/i?id=5056467e6d862c75c37f29a2aa911e4941d6dcc1-10707439-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_1",
+          "path": "https://avatars.mds.yandex.net/i?id=d73da6e9054a6fbc1569804552e41206726234cb-4815406-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_1",
+          "path": "https://avatars.mds.yandex.net/i?id=b94a3e29b198eda700a576ee3ee038360cd03a57-11008180-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "Skibidi Toilet Battle_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=a317bddb0da92eb0dabfd806c6fc365e9caf9258-8235455-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_2",
+          "path": "https://avatars.mds.yandex.net/i?id=7020682f4e3f2b967a8b622edc9581d22b52edac-10511855-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_2",
+          "path": "https://avatars.mds.yandex.net/i?id=cf0200e850e889980beb769712475c07766c9a78-9857422-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_2",
+          "path": "https://avatars.mds.yandex.net/i?id=3266b2ad3659a63348843eaebe1d3f9bc28adc06-9181242-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_2",
+          "path": "https://avatars.mds.yandex.net/i?id=fd64880989790e23d6a053f29123dea87fe6a752-8567615-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_2",
+          "path": "https://avatars.mds.yandex.net/i?id=4794fd6914483079ace4e6a558430809b39f0083-12301937-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_2",
+          "path": "https://avatars.mds.yandex.net/i?id=f9c57df356d5cef3e8f4242849d9cfe064a7c5fd-5233664-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_2",
+          "path": "https://avatars.mds.yandex.net/i?id=8dc85777d9f60757e42af04c1acc4212ea580c85-10898378-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_2",
+          "path": "https://avatars.mds.yandex.net/i?id=2a0000018e44514afc3c7b09f747e25ff70e-1527986-fast-images&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "Skibidi Toilet Battle_3",
+      "preview": "https://avatars.mds.yandex.net/i?id=4794fd6914483079ace4e6a558430809b39f0083-12301937-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_3",
+          "path": "https://avatars.mds.yandex.net/i?id=32f684b53f29169754c37c0b0974956329fdb368-9099023-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_3",
+          "path": "https://avatars.mds.yandex.net/i?id=fe746f679747d889a0567fe765d9b712338d5db1-4826347-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_3",
+          "path": "https://avatars.mds.yandex.net/i?id=328614054eb0a52a1f95310e59ace0efdef32190-10099509-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_3",
+          "path": "https://avatars.mds.yandex.net/i?id=3f1d2f93d7f4931b20bfab2f114e8e88af3cbd9c-5305509-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_3",
+          "path": "https://avatars.mds.yandex.net/i?id=3abed75e91aa1cf1b1954c5dd24295114c7d53f4-10548602-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_3",
+          "path": "https://avatars.mds.yandex.net/i?id=93dcc743e819b004e5697ad57bc57eae9953f884-9229664-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_3",
+          "path": "https://avatars.mds.yandex.net/i?id=fe8c84d8a88cd5c27d177840fc45c39a6d1fd02d-9720926-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Skibidi Toilet Battle_3",
+          "path": "https://avatars.mds.yandex.net/i?id=645944361e47d3abc9cd223b865984946f743b2b-12585680-images-thumbs&n=13"
         }
       ]
     }
